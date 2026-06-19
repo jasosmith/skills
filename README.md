@@ -1,2 +1,2 @@
 # skills
-My skills for my LLM work.
+Some of my skills
